@@ -1,24 +1,20 @@
-# 🎮 Tic-Tac-Toe Console Game in Dart
+# 🕹️ Dart Console Tic-Tac-Toe Game
 
-A simple two-player console-based Tic-Tac-Toe game written in Dart.
+A simple 2-player Tic-Tac-Toe game built using Dart for the console. Perfect for learning Dart basics and practicing control flow, input/output, and logic.
 
-## 🧾 Features
+---
 
-- Two-player mode
-- Input validation
-- Win detection and draw condition
-- Restart option after each game
-- Player chooses marker at start (X or O)
+## 📦 Requirements
 
-## 🛠 How to Run
+- Dart SDK installed  
+  Get it here: https://dart.dev/get-dart
 
-### Prerequisites
+---
 
-Make sure you have the [Dart SDK](https://dart.dev/get-dart ) installed.
+## ▶️ How to Run
 
-### Steps
+1. **Clone or Download the Project:**
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-dart.git 
-   cd tic-tac-toe-dart
+```bash
+git clone https://github.com/your-username/dart_tic_tac_toe.git
+cd dart_tic_tac_toe
